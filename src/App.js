@@ -13,7 +13,7 @@ import Register from './components/Register/register';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/grnba-website">
       <div className="flex flex-col min-h-screen">
         <Header />
         <main className="flex-grow">
