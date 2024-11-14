@@ -1,2 +1,2 @@
-# grnba-website
-grnba-website
+# GRNBA
+- This is an official webpage of GRNBA.
