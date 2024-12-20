@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/grnba-website/static/css/main.cdf47e08.css",
-    "main.js": "/grnba-website/static/js/main.fb66df52.js",
-    "static/js/453.7791e98c.chunk.js": "/grnba-website/static/js/453.7791e98c.chunk.js",
-    "static/media/c1.jpg": "/grnba-website/static/media/c1.d3b8f9bf51c84e516549.jpg",
-    "static/media/c2.jpg": "/grnba-website/static/media/c2.57cf8eb44e27129239a7.jpg",
-    "static/media/grnba.jpg": "/grnba-website/static/media/grnba.57cf8eb44e27129239a7.jpg",
-    "static/media/logo.jpg": "/grnba-website/static/media/logo.42745fced3c7de70782c.jpg",
-    "static/media/c3.jpg": "/grnba-website/static/media/c3.3feb4050422c0ad237be.jpg",
-    "index.html": "/grnba-website/index.html",
-    "main.cdf47e08.css.map": "/grnba-website/static/css/main.cdf47e08.css.map",
-    "main.fb66df52.js.map": "/grnba-website/static/js/main.fb66df52.js.map",
-    "453.7791e98c.chunk.js.map": "/grnba-website/static/js/453.7791e98c.chunk.js.map"
+    "main.css": "/static/css/main.cdf47e08.css",
+    "main.js": "/static/js/main.0fb2a600.js",
+    "static/js/453.508524d8.chunk.js": "/static/js/453.508524d8.chunk.js",
+    "static/media/c1.jpg": "/static/media/c1.d3b8f9bf51c84e516549.jpg",
+    "static/media/c2.jpg": "/static/media/c2.57cf8eb44e27129239a7.jpg",
+    "static/media/grnba.jpg": "/static/media/grnba.57cf8eb44e27129239a7.jpg",
+    "static/media/logo.jpg": "/static/media/logo.42745fced3c7de70782c.jpg",
+    "static/media/c3.jpg": "/static/media/c3.3feb4050422c0ad237be.jpg",
+    "index.html": "/index.html",
+    "main.cdf47e08.css.map": "/static/css/main.cdf47e08.css.map",
+    "main.0fb2a600.js.map": "/static/js/main.0fb2a600.js.map",
+    "453.508524d8.chunk.js.map": "/static/js/453.508524d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cdf47e08.css",
-    "static/js/main.fb66df52.js"
+    "static/js/main.0fb2a600.js"
   ]
 }
