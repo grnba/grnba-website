@@ -15,8 +15,14 @@ const Committee = () => {
           {/* Committee Members List */}
           <div className="text-lg leading-relaxed space-y-2">
             <p>1. Rajendra Gurung - President</p>
-            <p>2. Deepchan rai - Vice President</p>
-            <p>3. Nirmal shrees - General Secretary</p>
+            <p>2. Deepchan Rai - Vice President</p>
+            <p>3. Nirmal Shrees - General Secretary</p>
+            <p>4. Sanjay Tamang - Treasurer</p>
+            <p>5. Asmita Rai - Media Secretary</p>
+            <p>6. Chandra Rana - Member</p>
+            <p>7. Rajin Rai- Member</p>
+            <p>8. Dewan Limbu - Member</p>
+            <p>9. Ashok Bangshi - Member</p>
             {/* Add additional members here as needed */}
           </div>
         </div>

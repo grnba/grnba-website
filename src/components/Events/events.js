@@ -4,8 +4,15 @@ const Events = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-8 bg-gray-100">
       <div className="max-w-4xl w-full bg-white shadow-md rounded-lg p-6">
-        <h1 className="text-4xl font-bold text-center mb-8">Upcoming Events</h1>
+        <h1 className="text-4xl font-bold text-center mb-8">Events</h1>
+        <h2 className="text-2xl font-bold mb-4">Upcoming Events:</h2>
+        <h3>
+          No upcoming events atm, Please keep on visiting our profile for any
+          upcoming events.
+        </h3>
+        <br />
 
+        <h2 className="text-2xl font-bold mb-4">Past Events:</h2>
         {/* Scrollable Events Table */}
         <div className="overflow-y-auto max-h-80 w-full">
           <table className="min-w-full bg-white border border-gray-300">
@@ -45,7 +52,7 @@ const Events = () => {
                   ***
                 </td>
                 <td className="px-6 py-4 border-b border-gray-200 text-gray-700">
-                 ***
+                  ***
                 </td>
               </tr>
 

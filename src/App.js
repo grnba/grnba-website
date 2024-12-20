@@ -1,15 +1,15 @@
-import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Header from './components/Header/header';
-import Home from './components/Home/home';
-import About from './components/About/about';
-import Contact from './components/Contact/contact';
-import Footer from './components/Footer/footer';
-import Committee from './components/comittee/comittee';
-import Events from './components/Events/events';
-import Gallery from './components/Gallery/gallery';
-import Register from './components/Register/register';
-
+import React from "react";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Header from "./components/Header/header";
+import Home from "./components/Home/home";
+import About from "./components/About/about";
+import Contact from "./components/Contact/contact";
+import Footer from "./components/Footer/footer";
+import Committee from "./components/comittee/comittee";
+import Events from "./components/Events/events";
+import Gallery from "./components/Gallery/gallery";
+import Register from "./components/Register/register";
+import GrnbaBadminton from "./components/Gallery/grnbabadminton";
 
 function App() {
   return (
@@ -25,6 +25,7 @@ function App() {
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/register" element={<Register />} />
+            <Route path="/grnbabadminton" element={<GrnbaBadminton />} />
           </Routes>
         </main>
         <Footer />
