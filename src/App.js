@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./components/Header/header";
 import Home from "./components/Home/home";
 import About from "./components/About/about";
@@ -13,7 +13,7 @@ import GrnbaBadminton from "./components/Gallery/grnbabadminton";
 
 function App() {
   return (
-    <Router basename="/grnba-website">
+    <Router>
       <div className="flex flex-col min-h-screen">
         <Header />
         <main className="flex-grow">

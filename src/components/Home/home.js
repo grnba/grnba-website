@@ -16,6 +16,13 @@ const Home = () => {
       >
         <div className="relative h-[50vh]">
           <img
+            src={require("../../assets/c4.png")}
+            alt="Slide 3"
+            className="h-full w-full object-contain"
+          />
+        </div>
+        <div className="relative h-[50vh]">
+          <img
             src={require("../../assets/c1.jpg")}
             alt="Slide 1"
             className="h-full w-full object-contain"
@@ -95,7 +102,7 @@ const Home = () => {
         <br />
         <p class="text-lg items-center justify-center">
           <Link
-            to="https://everesttimes.net/archives/49712"
+            to="/grnbabadminton"
             class=" text-2xl text-blue-600 underline font-bold text-xl hover:text-blue-800"
           >
             <span class="highlight font-semibold">Click Here</span> to view
